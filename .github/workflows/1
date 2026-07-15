@@ -1,0 +1,10 @@
+github/
+└── workflows/
+    ├── ci.yml
+    ├── markdown-lint.yml
+    ├── spellcheck.yml
+    ├── link-check.yml
+    ├── license-scan.yml
+    ├── codeql.yml
+    ├── release.yml
+    └── docs.yml
